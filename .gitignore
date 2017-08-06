@@ -1,0 +1,5 @@
+*.qmodel
+*.o
+*.a
+*.user
+*.user.*
